@@ -1,0 +1,7 @@
+{
+  "name": "app_ejem_geolocalizacion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
